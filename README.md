@@ -57,3 +57,13 @@
 - 模型选择方法  
 `正则化：`选择经验风险和模型复杂度低的（Occam's razor）,可理解为惩罚因子  
 `交叉检验：` K折、留一交叉验证
+
+****
+
+## 5.demo模型
+
+- LinearRegression、KNeighborsRegressor、DecisionTreeRegressor、RandomForestRegressor、svm、lightgbm
+
+## 6.特征优化
+
+- 待续
